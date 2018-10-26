@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="7" extheight="448" extwidth="704" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="85.0" height="384" id="0" name="Level 1" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="640">
+    <layers>
+        <color-bg blue="255" green="204" red="153"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="49" c="false" group="4" id="2" name="Enemy 49" sx="1.0" sy="1.0" x="881" y="-265" z="0"/>
+        <actor a="0.0" aid="92" c="false" group="4" id="2" name="Enemy 92" sx="1.0" sy="1.0" x="-523" y="496" z="0"/>
+        <actor a="0.0" aid="93" c="false" group="4" id="2" name="Enemy 93" sx="1.0" sy="1.0" x="-523" y="455" z="0"/>
+        <actor a="0.0" aid="94" c="false" group="4" id="2" name="Enemy 94" sx="1.0" sy="1.0" x="-523" y="402" z="0"/>
+        <actor a="0.0" aid="95" c="false" group="4" id="2" name="Enemy 95" sx="1.0" sy="1.0" x="-506" y="348" z="0"/>
+        <actor a="0.0" aid="99" c="false" group="4" id="2" name="Enemy 99" sx="1.0" sy="1.0" x="449" y="-322" z="0"/>
+        <actor a="0.0" aid="100" c="false" group="4" id="2" name="Enemy 100" sx="1.0" sy="1.0" x="620" y="-357" z="0"/>
+        <actor a="0.0" aid="101" c="false" group="4" id="2" name="Enemy 101" sx="1.0" sy="1.0" x="640" y="-317" z="0"/>
+        <actor a="0.0" aid="102" c="false" group="4" id="2" name="Enemy 102" sx="1.0" sy="1.0" x="607" y="-263" z="0"/>
+        <actor a="0.0" aid="108" c="false" group="4" id="2" name="Enemy 108" sx="1.0" sy="1.0" x="-255" y="-261" z="0"/>
+        <actor a="0.0" aid="109" c="false" group="4" id="2" name="Enemy 109" sx="1.0" sy="1.0" x="-49" y="-329" z="0"/>
+        <actor a="0.0" aid="110" c="false" group="4" id="2" name="Enemy 110" sx="1.0" sy="1.0" x="200" y="-326" z="0"/>
+        <actor a="0.0" aid="111" c="false" group="4" id="2" name="Enemy 111" sx="1.0" sy="1.0" x="426" y="-240" z="0"/>
+        <actor a="0.0" aid="138" c="false" group="4" id="2" name="Enemy 138" sx="1.0" sy="1.0" x="-523" y="307" z="0"/>
+        <actor a="0.0" aid="161" c="false" group="4" id="2" name="Enemy 161" sx="1.0" sy="1.0" x="-91" y="-253" z="0"/>
+        <actor a="0.0" aid="166" c="false" group="4" id="2" name="Enemy 166" sx="1.0" sy="1.0" x="-438" y="-267" z="0"/>
+        <actor a="0.0" aid="208" c="false" group="0" id="0" name="Hero 208" sx="1.0" sy="1.0" x="-515" y="145" z="0"/>
+        <actor a="0.0" aid="209" c="false" group="0" id="0" name="Hero 209" sx="1.0" sy="1.0" x="-515" y="58" z="0"/>
+        <actor a="0.0" aid="210" c="false" group="0" id="0" name="Hero 210" sx="1.0" sy="1.0" x="-504" y="-11" z="0"/>
+        <actor a="0.0" aid="324" c="false" group="4" id="2" name="Enemy 324" sx="1.0" sy="1.0" x="1338" y="184" z="0"/>
+        <actor a="0.0" aid="325" c="false" group="4" id="2" name="Enemy 325" sx="1.0" sy="1.0" x="1396" y="184" z="0"/>
+        <actor a="0.0" aid="326" c="false" group="4" id="2" name="Enemy 326" sx="1.0" sy="1.0" x="1281" y="189" z="0"/>
+        <actor a="0.0" aid="329" c="false" group="4" id="2" name="Enemy 329" sx="1.0" sy="1.0" x="-515" y="191" z="0"/>
+        <actor a="0.0" aid="334" c="false" group="4" id="2" name="Enemy 334" sx="1.0" sy="1.0" x="1113" y="523" z="0"/>
+        <actor a="0.0" aid="337" c="false" group="4" id="2" name="Enemy 337" sx="1.0" sy="1.0" x="296" y="662" z="0"/>
+        <actor a="0.0" aid="338" c="false" group="4" id="2" name="Enemy 338" sx="1.0" sy="1.0" x="-84" y="662" z="0"/>
+        <actor a="0.0" aid="339" c="false" group="4" id="2" name="Enemy 339" sx="1.0" sy="1.0" x="-164" y="662" z="0"/>
+        <actor a="0.0" aid="340" c="false" group="4" id="2" name="Enemy 340" sx="1.0" sy="1.0" x="206" y="662" z="0"/>
+        <actor a="0.0" aid="341" c="false" group="4" id="2" name="Enemy 341" sx="1.0" sy="1.0" x="368" y="651" z="0"/>
+        <actor a="0.0" aid="352" c="false" group="4" id="2" name="Enemy 352" sx="1.0" sy="1.0" x="1141" y="-95" z="0"/>
+        <actor a="0.0" aid="353" c="false" group="4" id="2" name="Enemy 353" sx="1.0" sy="1.0" x="1266" y="-113" z="0"/>
+        <actor a="0.0" aid="354" c="false" group="4" id="2" name="Enemy 354" sx="1.0" sy="1.0" x="1396" y="-140" z="0"/>
+        <actor a="0.0" aid="355" c="false" group="4" id="2" name="Enemy 355" sx="1.0" sy="1.0" x="1319" y="-143" z="0"/>
+        <actor a="0.0" aid="356" c="false" group="0" id="0" name="Hero 356" sx="1.0" sy="1.0" x="122" y="283" z="0"/>
+        <actor a="0.0" aid="357" c="false" group="4" id="2" name="Enemy 357" sx="1.0" sy="1.0" x="497" y="254" z="0"/>
+    </actors>
+    <snippets>
+        <s enabled="false" id="8">
+            <prop id="5" list="0" val="false"/>
+            <prop id="6" list="0" val="-1"/>
+            <prop id="7" list="0" val="1.0"/>
+            <prop id="8" list="0" val="0.0"/>
+            <prop id="10" list="0" val=""/>
+            <prop id="11" list="0" val="-5.0"/>
+            <prop id="12" list="0" val="false"/>
+            <prop id="13" list="0" val="0.0"/>
+            <prop id="14" list="0" val="204,255,255,255"/>
+            <prop id="15" list="0" val="153,204,255,255"/>
+            <prop id="16" list="0" val="1.0"/>
+            <prop id="17" list="0" val="4.0"/>
+            <prop id="18" list="0" val="2.0"/>
+            <prop id="19" list="0" val="-1"/>
+            <prop id="20" list="0" val="0.5"/>
+        </s>
+    </snippets>
+    <terrain>
+        <p pts="12,640.0,384.0,0.0,384.0,0.0,0.0,32.0,0.0,32.0,320.0,480.0,320.0,480.0,288.0,576.0,288.0,576.0,320.0,608.0,320.0,608.0,0.0,640.0,0.0" x="0.0" y="0.0"/>
+    </terrain>
+    <atlases members="" retainAtlases="true"/>
+</scene>

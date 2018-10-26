@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pack>
+    <snippet attachedevent="false" class="scripts.Design_16_16_DrawTerrain" classname="scripts.Design_16_16_DrawTerrain" desc="Draw all terrain with custom fill and outline." description="Draw all terrain with custom fill and outline." design="true" drawOrder="0" id="16" name="Draw Terrain" oid="-1" package="scripts" shared="false" type="scene">
+        <number default="1.0" defaultValue="1.0" desc="The thickness of the outline to be drawn.&lt;br/&gt;&#10;Only used when &lt;var&gt;Outline&lt;/var&gt; is selected." dropdown="" fullname="Outline Thickness" hidden="false" id="2" name="_OutlineThickness" order="4"/>
+        <color default="153,51,0,255" defaultValue="153,51,0,255" desc="The color of the outline.&lt;br/&gt;&#10;Only used when &lt;var&gt;Outline&lt;/var&gt; is selected." dropdown="" fullname="Outline Color" hidden="false" id="3" name="_OutlineColor" order="5"/>
+        <color default="255,204,153,255" defaultValue="255,204,153,255" desc="The color to fill the terrain.&lt;br/&gt;&#10;Only used when &lt;var&gt;Fill&lt;/var&gt; is selected." dropdown="" fullname="Fill Color" hidden="false" id="4" name="_FillColor" order="2"/>
+        <boolean default="true" defaultValue="true" desc="If selected, the terrain will be filled." dropdown="" fullname="Fill" hidden="false" id="5" name="_Fill" order="1"/>
+        <list default="list" defaultValue="list" desc="" dropdown="" fullname="Terrain List" hidden="true" id="6" name="_TerrainList" order="0"/>
+        <boolean default="true" defaultValue="true" desc="If selected, the contour of the terrain will be drawn." dropdown="" fullname="Outline" hidden="false" id="7" name="_Outline" order="3"/>
+        <blocks>
+            <receiver blockID="715" id="1"/>
+            <receiver blockID="716" id="2"/>
+        </blocks>
+        <events>
+            <event displayName="Drawing" enabled="true" id="3" name="draw" order="5" repeats="true"/>
+            <event displayName="Import" enabled="true" id="5" name="event-custom-import" order="1" repeats="true"/>
+        </events>
+    </snippet>
+    <snippet actorid="0" attachedevent="true" class="scripts.ActorEvents_0" classname="scripts.ActorEvents_0" desc="Actor Specific Events" description="Actor Specific Events" design="true" drawOrder="0" id="13" name="ActorEvents_0" oid="-1" package="scripts." shared="false" type="actor">
+        <blocks/>
+        <events/>
+    </snippet>
+    <snippet attachedevent="true" class="scripts.SceneEvents_0" classname="scripts.SceneEvents_0" desc="Scene Specific Events" description="Scene Specific Events" design="true" drawOrder="0" id="14" name="SceneEvents_0" oid="-1" package="scripts." sceneid="0" shared="false" type="scene">
+        <number default="0.0" defaultValue="0.0" desc="" dropdown="" fullname="blurRadius" hidden="false" id="2" name="_blurRadius" order="0"/>
+        <shader default="" defaultValue="" desc="" dropdown="" fullname="s" hidden="false" id="3" name="_s" order="1"/>
+        <blocks/>
+        <events>
+            <event displayName="DO NOT MODIFY" enabled="true" id="1" name="init" order="1" repeats="true"/>
+        </events>
+    </snippet>
+    <snippet attachedevent="false" class="scripts.Design_16_16_4WayMovement" classname="scripts.Design_16_16_4WayMovement" desc="" description="" design="true" drawOrder="0" id="15" name="4WayMovement" oid="-1" package="scripts" shared="false" type="actor">
+        <actor default="thisactor" defaultValue="thisactor" desc="" dropdown="" fullname="Actor" hidden="true" id="2147483647" name="actor" order="2147483647"/>
+        <blocks/>
+        <events>
+            <event displayName="Updated" enabled="true" id="1" name="step" order="1" repeats="true"/>
+        </events>
+    </snippet>
+</pack>
