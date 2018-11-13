@@ -1,2 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<groups/>
+<groups>
+    <group eventID="1" id="0">
+        <step comment="false" x="13" y="13">
+            <group eventID="1" id="-1">
+                <if comment="false" x="24" y="38">
+                    <group eventID="1" id="-1">
+                        <set-dxy comment="false" x="35" y="71">
+                            <ACTOR eid="this" id="0"/>
+                            <int id="1" val="0"/>
+                            <get-val-0-2 comment="false" id="2" x="0" y="0"/>
+                        </set-dxy>
+                    </group>
+                    <keystate comment="false" id="0" x="0" y="0">
+                        <int id="0" val="0"/>
+                        <control eid="3" id="1"/>
+                    </keystate>
+                </if>
+            </group>
+        </step>
+    </group>
+    <group eventID="1" id="-1"/>
+</groups>
