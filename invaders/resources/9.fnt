@@ -1,0 +1,16 @@
+#
+#Wed Nov 28 08:30:03 PST 2018
+style=plain
+alphabet=
+color=\#00ffff
+shadow.y=0
+family=SansSerif
+shadow.x=0
+shadow.color=\#000000
+gradient.offset=6
+shadow.blur=0
+chars=all
+gradient.color=\#333333
+stroke.size=0
+antialias=true
+size=32
