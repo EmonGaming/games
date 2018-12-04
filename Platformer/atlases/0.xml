@@ -1,0 +1,7 @@
+<t p="atlas0.png">
+	<s n="sprite4-0-0" x="0" y="0" w="37" h="36" />
+	<s n="sprite4-1-0" x="0" y="38" w="37" h="36" />
+	<s n="tileset163" x="0" y="76" w="32" h="32" />
+	<s n="inner-joystick" x="39" y="0" w="100" h="100" />
+	<s n="outer-joystick" x="141" y="0" w="100" h="100" />
+</t>
